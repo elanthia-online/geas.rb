@@ -1,0 +1,31 @@
+right_hand:
+  height: 5
+  width: 20
+  left: 0
+  top: 0
+  color: 
+  
+left_hand:
+  height: 5
+  width: 20
+  left: 0
+  top: 0
+  
+hud:
+  height: 95
+  width: 10
+  left: 0
+  top: 5
+  
+main:
+  height: 90
+  width: 90
+  left: 10
+  top: 5
+  color: #f1f1f1
+  
+prompt:
+  width: 90
+  height: 5
+  left: 10
+  top: 95

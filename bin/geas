@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "geas/cli"
+Geas::CLI.start(ARGV)
